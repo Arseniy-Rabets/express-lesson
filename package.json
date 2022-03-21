@@ -1,0 +1,19 @@
+{
+  "name": "test_project",
+  "version": "1.0.0",
+  "description": "test only",
+  "main": "app.js",
+  "scripts": {
+    "test": "start-test",
+    "start": "node app.js"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Arseniy",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.3",
+    "nodemon": "^2.0.15"
+  }
+}
